@@ -146,6 +146,7 @@ function isLab( sub )
         return 20;
     }
     else {
-        console.error( 'Select subjects properly' );
+//         console.error( 'Select subjects properly' );
+        return 0;
     }
 };
