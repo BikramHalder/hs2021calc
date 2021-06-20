@@ -1,7 +1,7 @@
 // subjects : Bengali, English, Hindi, Nepali, Urdu, Santhali, Odia, Telegu, Gujrati, Punjabi, Physics, Chemistry, Mathematics, Biology, Computer Science, Computer Applicaton, Philosophy, Education, Geography, Statistics, Political Science, Psychology, Agronomy, Anthropology, Accountancy, Busneiss Studies, Economics, History, Enviornmental Studies, Nutrition, Home Management, Journalism, Physical Education, Commercial Law & Preliminaries of Auditing, Costing & Taxation, Sanskrit, Persian, Arabic, French
 
 
-const nonLab = [ "BNGA", "ENGA", "HINA", "SANA", "ODIA", "TELA", "URDA", "GUJA", "PUNA", "NEPA", "ENGB", "BNGB", "HINB", "NEPB", "MATH", "HIST", "PHYC", "PHIL", "EDU", "POLS", "JOUR", "CATX", "CLPA", "ACCN", "BUST", "SANS", "ARAB", "FREN", "PERS", "AGRO", "ATHR", "EVS", "HMG" ];
+const nonLab = [ "BNGA", "ENGA", "HINA", "SANA", "ODIA", "TELA", "URDA", "GUJA", "PUNA", "NEPA", "ENGB", "BNGB", "HINB", "NEPB", "MATH", "HIST","ECO", "PHYC", "PHIL", "EDU", "POLS", "JOUR", "CATX", "CLPA", "ACCN", "BUST", "SANS", "ARAB", "FREN", "PERS", "AGRO", "ATHR", "EVS", "HMG" ];
 const Lab = [ "PHYS", "CHEM", "BIOS", "COMS", "COMA", "STAT", "GEOG", "NUTN" ];
 
 let form2 = document.getElementById( 'form2' );
