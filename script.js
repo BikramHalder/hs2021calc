@@ -74,7 +74,7 @@ calBtn.addEventListener( 'click', () =>
         myModal_1.show();
     }
     // Check if all the marks entered are valid
-    else if ( !validMarks ) {
+    else if ( !validMarks || validMarks==NaN ) {
         document.getElementById( 'modalBody' ).innerHTML = `Put your marks properly.`;
         myModal_1.show();
     }
